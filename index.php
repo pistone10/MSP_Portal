@@ -1,5 +1,5 @@
 <?php
-require header.php;
+require ('header.php');
 ?>
 <div id="page-wrapper">
             <div class="row">
@@ -542,5 +542,5 @@ require header.php;
             </div>
             <!-- /.row -->
 <?php
-require footer.php;
+require ('footer.php');
 ?>
