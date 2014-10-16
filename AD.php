@@ -17,7 +17,14 @@ require ('header.php');
 						</div>
 						<!-- /.header -->
 						<div class="panel-body">
-						
+							<form role="form">
+								<div style="float:left;margin-right:60px" class="form-group">
+									<label>AD Domain</label>
+									<p class="form-control-static">LITC.LEVERAGEITC.COM</p>
+									<label>Short Name</label>
+									<p class="form-control-static">LITC</p>
+								</div>
+							</form>
 						</div>
 						<!--/.panel-body -->
 					</div>
@@ -31,7 +38,12 @@ require ('header.php');
 						</div>
 						<!-- /.header -->
 						<div class="panel-body">
-						
+							<form role="form">
+								<div class="form-group">
+									<p class="form-control-static">SVR-LITC-DC1</p>
+									<p class="form-control-static">SVR-LITCR-DC2</p>
+								</div>
+							</form>
 						</div>
 						<!--/.panel-body -->
 					</div>

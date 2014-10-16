@@ -286,13 +286,13 @@
                             <a href="AD.php"><i class="fa fa-edit fa-fw"></i> Active Directory Domain</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-edit fa-fw"></i> File Shares and Printers</a>
+                            <a href="FP.php"><i class="fa fa-edit fa-fw"></i> File Shares and Printers</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-edit fa-fw"></i> Email System</a>
+                            <a href="Email.php"><i class="fa fa-edit fa-fw"></i> Email System</a>
                         </li>
                         <li>
-                           <a href="#"><i class="fa fa-edit fa-fw"></i> Backup Infrastructure</a>
+                           <a href="Backup.php"><i class="fa fa-edit fa-fw"></i> Backup Infrastructure</a>
                         </li>
 						<li>
                            <a href="#"><i class="fa fa-edit fa-fw"></i> Servers & Roles</a>
