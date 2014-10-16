@@ -295,8 +295,49 @@
                            <a href="Backup.php"><i class="fa fa-edit fa-fw"></i> Backup Infrastructure</a>
                         </li>
 						<li>
-                           <a href="#"><i class="fa fa-edit fa-fw"></i> Servers & Roles</a>
+                           <a href="#"><i class="fa fa-sitemap fa-fw"></i> Servers & Roles<span class="fa arrow"></a>
                         </li>
+						<li>
+							<ul class="nav nav-second-level">
+								<li>
+                                    <a href="#">SVR-LITC-HV1<span class="fa arrow"></a>
+                                </li>
+								<li>
+									<ul class="nav nav-third-level">
+										<li>
+											<a href="#">SVR-LITC-DC1 (VM)</a>
+										</li>
+										<li>
+											<a href="#">SVR-LITC-APP1 (VM)</a>
+										</li>
+										<li>
+											<a href="#">SVR-LITC-EX1 (VM)</a>
+										</li>
+										<li>
+											<a href="#">SVR-LITC-SQL1 (VM)</a>
+										</li>
+											<a href="#">SVR-LITC-RDS1 (VM)</a>
+										<li>
+									</ul>
+								</li>
+								<li>
+                                    <a href="#">SVR-LITC-HV2</a>
+                                </li>
+								<li>
+                                    <a href="#">SVR-SAC-BDR1</a>
+                                </li>
+								<li>
+                                    <a href="#">SVR-LITCR-HV2<span class="fa arrow"></a>
+                                </li>
+								<li>
+									<ul class="nav nav-third-level">
+										<li>
+											<a href="#">SVR-LITCR-DC2 (VM)</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
 						<li>
                            <a href="#"><i class="fa fa-edit fa-fw"></i> Network Information</a>
                         </li>
