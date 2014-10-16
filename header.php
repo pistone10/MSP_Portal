@@ -283,7 +283,7 @@
                             <a href="#"><i class="fa fa-edit fa-fw"></i> Network Map (Visio)</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-edit fa-fw"></i> Active Directory Domain</a>
+                            <a href="AD.php"><i class="fa fa-edit fa-fw"></i> Active Directory Domain</a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-edit fa-fw"></i> File Shares and Printers</a>
