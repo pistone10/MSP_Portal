@@ -24,6 +24,12 @@ require ('header.php');
 									<label>Short Name</label>
 									<p class="form-control-static">LITC</p>
 								</div>
+								<div class="form-group">
+									<label>Primary DC</label>
+									<p class="form-control-static">SVR-LITC-DC1</p>
+									<label>Script Type</label>
+									<p class="form-control-static">GPO</p>
+								</div>
 							</form>
 						</div>
 						<!--/.panel-body -->
