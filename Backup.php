@@ -20,7 +20,7 @@ require ('header.php');
 									<label>Backup Software</label>
 									<p class="form-control-static">StorageCraft ShadowProtect</p>
 								</div>
-								<div class="form-group">
+								<div style="float:left;margin-right:60px" class="form-group">
 									<label>Backup Admin Console Installation Location</label>
 									<p class="form-control-static">SVR-SAC-BDR01</p>
 									<label>Backup System Type</label>
@@ -32,7 +32,7 @@ require ('header.php');
 									<label>Backup Storage Device</label>
 									<p class="form-control-static">BLS</p>
 								</div>
-								<div class="form-group">
+								<div style="float:left;margin-right:60px" class="form-group">
 									<label>Backup Storage Media Type</label>
 									<p class="form-control-static">SATA Hard Drive</p>
 									<label>Backup Storage Location IP</label>
@@ -44,7 +44,7 @@ require ('header.php');
 									<label>Offsite Backup Type</label>
 									<p class="form-control-static">Doyenz</p>
 								</div>
-								<div class="form-group">
+								<div style="float:left;margin-right:60px" class="form-group">
 									<label>Backup Schedule</label>
 									<p class="form-control-static">15 minute continuous incremental</p>
 									<label>Notes</label>
